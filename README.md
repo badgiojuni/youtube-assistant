@@ -15,6 +15,7 @@ This application serves as a personal assistant for YouTube, providing enhanced 
    git clone https://github.com/yourusername/youtube-assistant.git
    cd youtube-assistant
     ```
+⚠️Attention! you'll need to generate your personal open-ai key that you copy paste in the .env file to run the app!
 
 ## Set up a virtual env
 
@@ -32,4 +33,5 @@ Run the following command to launch the youtube assistant user interface on your
    ```bash
 streamlit run main.py
    ```
-   Click on the link that appears on your terminal: you're all set to get summaries of your favorite youtube videos!
+   Click on the link that appears on your terminal: 
+==> you're all set to get summaries of your favorite youtube videos!
